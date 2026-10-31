@@ -60,3 +60,12 @@
 Cada pedido debería registrarse con ID, fecha, requisito, prioridad, archivos modificados, commit, prueba estática, prueba visual, estado, fuente de datos, limitaciones y siguiente acción. Solo cambiar a **✅ Verificado** si existe evidencia de una prueba funcional; de lo contrario, dejar **⚠️ Parcial** aunque el código esté en GitHub.
 
 **Regla editorial:** importaciones registradas ≠ consumo nacional ≠ consumo en pozo. Cuota observada en la muestra ≠ participación del mercado total. Cualquier afirmación de comprador final o proveedor requiere fuente comercial verificable.
+
+## Actualización 31/10/2026 — Tema claro/oscuro unificado
+
+- ✅ Añadido botón **Modo oscuro / Modo claro** a las 10 páginas HTML públicas confirmadas: `index.html`, `panel-ejecutivo.html`, `buscador-sectorial.html`, `radar-comercial.html`, `mapa-pozos.html`, `arca.html`, `metodologia.html`, `actualizaciones-mensuales.html`, `catalogo-quimico.html`, `productos.html`.
+- ✅ La preferencia queda en `localStorage` mediante `aoi-theme` y se refleja en todas esas páginas; en el panel ejecutivo se conserva compatibilidad con `aoi-executive-dark`.
+- ✅ Comprobación de sintaxis de los scripts tras cada cambio y confirmación de commits GitHub.
+- ⚠️ Pendiente **certificación visual responsive** de contraste en tablas, modales, mapas y dispositivos móviles. No debe declararse completamente verificado antes de esa prueba.
+- ⚠️ Sigue **sin existir** `data/pozos-oficiales.csv`; el workflow creado no equivale a datos poblados. El mapa geográfico nacional permanece en estado parcial hasta comprobar descarga y publicación.
+- ⚠️ ARCA continúa `arca_integrado: false`: sin ingesta automática probada.
