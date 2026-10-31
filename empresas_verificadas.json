@@ -1,8 +1,4581 @@
 {
   "fecha_revision": "2026-10-31",
+  "metodo": "203 fichas por razón social de datos.json; campos externos solo en coincidencias revisadas, sin atribución por similitud genérica",
   "empresas": [
     {
-      "match": "QUIMICA CALLEGARI",
+      "nombre": "A E B ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1.25,
+        "fob": 2005.85,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "A M G SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 7,
+        "fob": 8319.01,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "ABA COLOR SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 26,
+        "fob": 22828,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ABASTECIMIENTOS LACTEOS S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 18,
+        "fob": 24840,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "ACEITERA GENERAL DEHEZA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 24,
+        "fob": 12240,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Turquía"
+        ]
+      }
+    },
+    {
+      "nombre": "ADITIVOS ALIMENTARIOS SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 44,
+        "fob": 61720,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-08"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "AGROFINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 3,
+        "fob": 7331.49,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "AGROINSUMOS SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.025,
+        "fob": 896.42,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "AKZO NOBEL ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 7,
+        "toneladas": 86,
+        "fob": 36080,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "ALTO PARANA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 2.875,
+        "fob": 3578.82,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "ANDERS ARGENTINA S.R.L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 11,
+        "toneladas": 0.20684,
+        "fob": 3769.79,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-03",
+          "2026-04",
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "ARCOR S A I C",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 30,
+        "fob": 63960,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ARFLOW SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 323.32608,
+        "fob": 91800,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "ARROWWS ARGENTINA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 10,
+        "fob": 12465.12,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "B.P. PUBLICITARIA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 24.0075,
+        "fob": 5432,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "BAKER HUGHES ARGENTINA SOCIEDAD DE RESPO",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 44,
+        "fob": 64460,
+        "productos": [
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "BARAMA S.R.L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 50.216,
+        "fob": 7602.43,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "BASF ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 12,
+        "toneladas": 2.60665,
+        "fob": 41425.27,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA",
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "Austria",
+          "Francia",
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "BAUSCH & LOMB ARGENTINA S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.00002,
+        "fob": 275.35,
+        "productos": [
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "Dinamarca"
+        ]
+      }
+    },
+    {
+      "nombre": "BAYER SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.48,
+        "fob": 5356.75,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "Austria"
+        ]
+      }
+    },
+    {
+      "nombre": "BEDSON SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 9,
+        "toneladas": 98.626,
+        "fob": 264131.77,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "BEIERSDORF S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.64,
+        "fob": 10215.53,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-08"
+        ],
+        "paises": [
+          "Austria"
+        ]
+      }
+    },
+    {
+      "nombre": "BENITO ROGGIO E HIJOS SA ÂíTECSAN INGENIE",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 1.125,
+        "fob": 422.28,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-05"
+        ],
+        "paises": [
+          "Polonia",
+          "Turquía"
+        ]
+      }
+    },
+    {
+      "nombre": "BIO SIDUS SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00031,
+        "fob": 335,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "BIOTEC S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 7,
+        "toneladas": 21.12,
+        "fob": 178651.4,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-04",
+          "2026-08"
+        ],
+        "paises": [
+          "Italia",
+          "Austria",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "BIOTERMAL S.A.Ã¿",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 1.08262,
+        "fob": 4852.62,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "BRENNTAG ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 96.721,
+        "fob": 148340.76,
+        "productos": [
+          "GOMA XANTICA",
+          "ALCOHOL ISOPROPILICO",
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "BRUERRE EME SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 17.6,
+        "fob": 30993,
+        "productos": [
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Suecia"
+        ]
+      }
+    },
+    {
+      "nombre": "CABO SOUNION SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 2,
+        "fob": 5174.16,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "CANCAT PET SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 46.439,
+        "fob": 11451.96,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "CARPE SCHEIDER Y CIA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 0.00005,
+        "fob": 14931.9,
+        "productos": [
+          "CLORURO DE COLINA",
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "CARPEAL S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00144,
+        "fob": 51.32,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "CASTIGLIONI PES Y CIA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 17.8,
+        "fob": 61182,
+        "productos": [
+          "ARENAS Y CUARZOS",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "CEMENTOS AVELLANEDA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 16.524,
+        "fob": 28957.73,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-05"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "CENTRO PET ARGENTINA S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.2177,
+        "fob": 410.4,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "CHEMICAL CENTER S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.33051,
+        "fob": 8260.72,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "CICLOQUIMICA SAC",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 16.56,
+        "fob": 31597.64,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-03"
+        ],
+        "paises": [
+          "India",
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "CM&V CONSULTANCY SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.025,
+        "fob": 16.47,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "COLGATE PALMOLIVE ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 7.92,
+        "fob": 72598.18,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-03",
+          "2026-04",
+          "2026-06"
+        ],
+        "paises": [
+          "Austria",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "COMERCIAL ALEGUI S. R. L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 27.97,
+        "fob": 13564.5,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "COMPAéIAS ASOCIADAS PETROLERAS S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 79.2,
+        "fob": 171072,
+        "productos": [
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "COMPANIA PETROLERA COPSA S.A.",
+      "estado": "fuente secundaria identificada; verificar en ARCA",
+      "fecha_revision": "2026-10-31",
+      "cuit": "30-66604945-0",
+      "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (fuente secundaria)",
+      "domicilio": "Suipacha 1067, piso 5, CABA (fuente secundaria)",
+      "telefono": "(011) 4129-3600 (directorio; verificar)",
+      "correo": null,
+      "web": null,
+      "actividad": "Comercio mayorista de combustibles y lubricantes",
+      "fuentes": [
+        "https://indicadores.ar/empresa/30666049450-copsa-combustibles-quimicos-y-especialidades-s-a"
+      ],
+      "resumen": {
+        "registros": 6,
+        "toneladas": 126.5,
+        "fob": 215502.09,
+        "productos": [
+          "GOMA XANTICA",
+          "ALCOHOL ISOPROPILICO",
+          "MONOETANOLAMINA 2026",
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "Países Bajos"
+        ]
+      }
+    },
+    {
+      "nombre": "COMPAÑIA QUIMICA OLEOMUD S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 29.08,
+        "fob": 78462,
+        "productos": [
+          "DETA",
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "CORDIS SOCIEDAD ANONIM",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 4,
+        "fob": 8520,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "CORECHEM SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 0.2004,
+        "fob": 1500.2,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-07"
+        ],
+        "paises": [
+          "Corea del Sur"
+        ]
+      }
+    },
+    {
+      "nombre": "CORPORACION LODRA SOCIEDAD DE RESPONSABI",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 42,
+        "fob": 56850,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-08"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "CORTEVA AGRISCIENCE ARGENTINA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 219,
+        "toneladas": 6359.1,
+        "fob": 8595374.54,
+        "productos": [
+          "CLORURO DE COLINA",
+          "GOMA XANTICA",
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Bélgica",
+          "Francia",
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "CRAPSA S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 26,
+        "fob": 38116,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "CRAVERI S A I C",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.15,
+        "fob": 27700,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "CRISTACOL SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 14,
+        "fob": 31500,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DALGAR S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 24.96,
+        "fob": 29677.44,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DANISCO  ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 12,
+        "toneladas": 7.727,
+        "fob": 88722.65,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "Países Bajos",
+          "España",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "DANONE ARGENTINA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 2.475,
+        "fob": 39742.13,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-04",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "DERVICH EDGARDO JOSE",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1.1,
+        "fob": 2145,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "DHM INDUSTRIA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 26,
+        "fob": 54860,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DISTRIBUIDORA H&G S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 6,
+        "fob": 1050,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DROGUERIA SAPORITI S A C I F I A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1,
+        "fob": 793,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "DROQUIMAR SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 12.8,
+        "fob": 18220,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DULCOR S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 3,
+        "fob": 6510,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DUROX ENOLOGIA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1.5,
+        "fob": 2095.41,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "DUTCH STARCHES INTERNATIONAL S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 7,
+        "toneladas": 191,
+        "fob": 289296.15,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "India",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DYENA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.5,
+        "fob": 1000,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "DYNATECH QUIMICA DE ARGENTINA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 6,
+        "toneladas": 48.4,
+        "fob": 43538,
+        "productos": [
+          "DETA"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "E&N SERVICIOS SRLÃ¿",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 40,
+        "fob": 5471.99,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ECOLAB S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.1,
+        "fob": 2629.23,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "EL FORASTERO S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 47.106,
+        "fob": 25781,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-05"
+        ],
+        "paises": [
+          "Canadá"
+        ]
+      }
+    },
+    {
+      "nombre": "ELNOK SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 26.2,
+        "fob": 8644.14,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ENDUPLAST SRL S. R. L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.09312,
+        "fob": 210.58,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ENSOLFOOD S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 7,
+        "toneladas": 120.001,
+        "fob": 221711,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR",
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-04",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "ESTABLECIMIENTO ORLOC SOCIEDAD RESPONSAB",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 5,
+        "fob": 13500,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ETILFARMA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 1.92,
+        "fob": 18693.2,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Austria"
+        ]
+      }
+    },
+    {
+      "nombre": "EUROLAB  S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00001,
+        "fob": 2467.8,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "FABRIQUIMICA SOCIEDAD DE RESPONSABILIDAD",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.2,
+        "fob": 1781.76,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "FARMCHEM SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 24.8,
+        "fob": 102176,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "FEBEL S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 211.8096,
+        "fob": 305889.8,
+        "productos": [
+          "GLUTARALDEHIDO",
+          "MONOETANOLAMINA 2026",
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "China",
+          "Chile"
+        ]
+      }
+    },
+    {
+      "nombre": "FERAR QUIMICA S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 211.2,
+        "fob": 184532.35,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "FIRMENICH SAIC Y F",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.05005,
+        "fob": 152.96,
+        "productos": [
+          "GOMA XANTICA",
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "FMC QUIMICA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 5,
+        "fob": 84643.56,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-08"
+        ],
+        "paises": [
+          "Francia",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "FRAMINGHAM PHARMA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.05,
+        "fob": 840,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "GADOR S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 1.8,
+        "fob": 227054,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-06"
+        ],
+        "paises": [
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "GE CONSUMER & INDUSTRIAL ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 53,
+        "fob": 31040,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-03"
+        ],
+        "paises": [
+          "Bélgica"
+        ]
+      }
+    },
+    {
+      "nombre": "GENERAL INK.FACTORY S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 18,
+        "fob": 34262.29,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "GENOMMA LABORATORIES ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 0.625,
+        "fob": 6932.45,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-03",
+          "2026-04"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "GEO INDUSTRIAL S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 27,
+        "fob": 49950,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "GIVAUDAN ARGENTINA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 0.23,
+        "fob": 571.1,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "GLEBA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.0001,
+        "fob": 0.3,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "GLOBALGROUP",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 4,
+        "fob": 1280,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "GRUPO E.P. S.A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 99.5,
+        "fob": 29956.9,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-05",
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "GRUPO ENOLàGICO CIANCIO SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1.25,
+        "fob": 1094.78,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "GURGEN ARGENTINA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 19,
+        "fob": 49928,
+        "productos": [
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "HALLIBURTON ARGENTINA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 9,
+        "toneladas": 8.12155,
+        "fob": 43280.4,
+        "productos": [
+          "GOMA GUAR",
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-03",
+          "2026-05",
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "HARMONY INGREDIENTS SOLUTIONS S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 23,
+        "fob": 37140,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-04"
+        ],
+        "paises": [
+          "China",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "HENRY HIRSCHEN Y CIA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 21,
+        "toneladas": 502.51,
+        "fob": 763586.1,
+        "productos": [
+          "CLORURO DE COLINA",
+          "GOMA XANTICA",
+          "GOMA GUAR",
+          "GLUTARALDEHIDO",
+          "CLORURO DE BENZALCONIO 2026",
+          "ALCOHOL ISOPROPILICO",
+          "MONOETANOLAMINA 2026",
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "India",
+          "Uruguay"
+        ]
+      }
+    },
+    {
+      "nombre": "HERCULES ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.2,
+        "fob": 71.69,
+        "productos": [
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "HYPRED ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 4.7,
+        "fob": 21945,
+        "productos": [
+          "GOMA XANTICA",
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-04",
+          "2026-06"
+        ],
+        "paises": [
+          "Francia",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "IACOPI GUILLERMO ALBERTO",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 25.6,
+        "fob": 36352,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "INDIOQUIMICA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 7,
+        "toneladas": 147,
+        "fob": 141272.21,
+        "productos": [
+          "CLORURO DE COLINA",
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "INDUSTRIAS QUIMICAS OLEOSOL S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 35.1,
+        "fob": 87340.5,
+        "productos": [
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "INMOBAL NUTRER S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 14,
+        "toneladas": 375.84,
+        "fob": 443071.52,
+        "productos": [
+          "CLORURO DE COLINA",
+          "GOMA GUAR",
+          "GOMA XANTICA",
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Bélgica",
+          "India",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "INNOVATIVE WATER CARE ARGENTINA S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.7,
+        "fob": 420,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "INPACK ALIMENTICIA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.0005,
+        "fob": 3.88,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "INSTITUTO DEL CEMENTO PORTLAND ARGENTINO",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 11.421,
+        "fob": 19776.94,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "INTERCHEMISTRY S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 0.20068,
+        "fob": 1358.07,
+        "productos": [
+          "BENTONITA",
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "India",
+          "Francia"
+        ]
+      }
+    },
+    {
+      "nombre": "INTERNATIONAL FLAVORS & FRAGRANCES S A C",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 0.575,
+        "fob": 9335.75,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-04",
+          "2026-08"
+        ],
+        "paises": [
+          "Francia"
+        ]
+      }
+    },
+    {
+      "nombre": "ISI S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 10,
+        "toneladas": 254.52874,
+        "fob": 456324.46,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA",
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "India",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ITZA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 40,
+        "fob": 64455.28,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "JOSE GUMA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1,
+        "fob": 4015,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "JUST INTERNATIONAL LATAM S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.225,
+        "fob": 14773.71,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "KASDORF SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 7,
+        "toneladas": 12.185,
+        "fob": 192178.22,
+        "productos": [
+          "CLORURO DE COLINA",
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-07"
+        ],
+        "paises": [
+          "España",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "L`OREAL ARGENTINA S. A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 12.4,
+        "fob": 96605.15,
+        "productos": [
+          "GOMA GUAR",
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-05",
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "LABORATORIO LEMOS SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.01,
+        "fob": 1000,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "LABORATORIO WEIZUR ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1.42905,
+        "fob": 4773.02,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "LABORATORIOS ARGENTINOS FARMESA S A I C",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 17.0015,
+        "fob": 35553.91,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-07"
+        ],
+        "paises": [
+          "Turquía",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "LABORATORIOS CASASCO S A I C",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 1.4,
+        "fob": 203582.1,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-08"
+        ],
+        "paises": [
+          "Suiza"
+        ]
+      }
+    },
+    {
+      "nombre": "LABORATORIOS PEYTE S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 5.46,
+        "fob": 10171.98,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "LABYES S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.8,
+        "fob": 11144,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "LAFEDAR SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.001,
+        "fob": 537,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "LAFFORT OENOLOGIE ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 13.2,
+        "fob": 24987.63,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-06"
+        ],
+        "paises": [
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "LANXESS S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 10,
+        "toneladas": 198,
+        "fob": 238494,
+        "productos": [
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "LAS CAMELIAS S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 217.8,
+        "fob": 192157.1,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "LATINOQUIMICA AMTEX SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.025,
+        "fob": 84.75,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "Colombia"
+        ]
+      }
+    },
+    {
+      "nombre": "LIPO CHEMICALS ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.175,
+        "fob": 1724.71,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "LONZA ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 3.2,
+        "fob": 10835.13,
+        "productos": [
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "M.CASSAB ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 12,
+        "toneladas": 224.455,
+        "fob": 418083.75,
+        "productos": [
+          "GOMA XANTICA",
+          "CLORURO DE COLINA",
+          "MONOETANOLAMINA 2026",
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MAGEL S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.5,
+        "fob": 3232.19,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MANUCHAR ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 110.4,
+        "fob": 60092.8,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MAPEI ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 5,
+        "fob": 12647.54,
+        "productos": [
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "Francia",
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "MAREF S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.00072,
+        "fob": 0.85,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "India",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MARITIMA MERIDIAN S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 120.9094,
+        "fob": 64274.54,
+        "productos": [
+          "BENTONITA",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MARPAQ SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 40,
+        "fob": 82400,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MASCOTAS DE BUENOS AIRES S.R.L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 28.2,
+        "fob": 4568.4,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MATHIESEN ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 38,
+        "fob": 70573.59,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-06"
+        ],
+        "paises": [
+          "India",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MENDEZ Y MOLINARI S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 22,
+        "fob": 39941,
+        "productos": [
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MERCEDESÂíBENZ ARGENTINA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00234,
+        "fob": 23.06,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "MERCK S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 22,
+        "toneladas": 13.45715,
+        "fob": 38853.81,
+        "productos": [
+          "ALCOHOL ISOPROPILICO",
+          "MONOETANOLAMINA 2026",
+          "ARENAS Y CUARZOS",
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Alemania",
+          "Francia",
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "MILBERG Y ASOCIADOS SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 24.96,
+        "fob": 35593.88,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "MONDELEZ ARGENTINA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 3,
+        "fob": 9600,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-04",
+          "2026-06"
+        ],
+        "paises": [
+          "China",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "MONSANTO ARGENTINA S A I C",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 8.3,
+        "fob": 156098.85,
+        "productos": [
+          "GOMA XANTICA",
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Francia",
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "NALCO ARGENTINA S.R.L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 44,
+        "fob": 66440,
+        "productos": [
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "NATIONAL SERVICE ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 9.5,
+        "fob": 33535,
+        "productos": [
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Uruguay"
+        ]
+      }
+    },
+    {
+      "nombre": "NATURA COSMETICOS  SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 0.3876,
+        "fob": 12204.27,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR",
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "No disponible",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 26.4,
+        "fob": 18715.72,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "NOURYON CHEMICALS ARGENTINA S.A.U.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.0005,
+        "fob": 1,
+        "productos": [
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Suecia"
+        ]
+      }
+    },
+    {
+      "nombre": "NUFARM S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 0.6001,
+        "fob": 10635.32,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-05",
+          "2026-07"
+        ],
+        "paises": [
+          "Francia",
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "NUTRALIA SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.57968,
+        "fob": 5148.44,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "ORICA CHEMICALS ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 9.65,
+        "fob": 22739.5,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "PECOM SERVICIOS ENERGIA S.A.U.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 22,
+        "fob": 39266,
+        "productos": [
+          "GLUTARALDEHIDO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "PEHUENIA ALIMENTARIA S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.002,
+        "fob": 1.8,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Países Bajos"
+        ]
+      }
+    },
+    {
+      "nombre": "PEPSICO DE ARGENTINA SOCIEDAD DE RESPONS",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 27,
+        "toneladas": 1.23216,
+        "fob": 27397.32,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Z. Franca Colonia"
+        ]
+      }
+    },
+    {
+      "nombre": "PET SUPPLIES INTL. SA.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 74.4,
+        "fob": 20460,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-03"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "PLUSQUIMICA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 11.36,
+        "fob": 29300.92,
+        "productos": [
+          "GOMA XANTICA",
+          "CLORURO DE BENZALCONIO 2026"
+        ],
+        "meses": [
+          "2026-05",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "Uruguay"
+        ]
+      }
+    },
+    {
+      "nombre": "POLES Y COMPAÑIA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 1.25,
+        "fob": 119.43,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Portugal"
+        ]
+      }
+    },
+    {
+      "nombre": "PRODICOS  SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.2,
+        "fob": 564,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "PRODUCTOS ALIMENTICIOS HARMONY SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.2,
+        "fob": 3375.66,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "PURATOS SOCIEDAD ANONIMA ARGENTINA COMER",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.025,
+        "fob": 1399.58,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "Bélgica"
+        ]
+      }
+    },
+    {
+      "nombre": "PWA POLIURETANOS WOODBRIDGE DE ARGENTINA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 10.32,
+        "fob": 30247.8,
+        "productos": [
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "QUANTUM QUIMICA S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.225,
+        "fob": 3813.27,
+        "productos": [
+          "GOMA XANTICA",
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-04"
+        ],
+        "paises": [
+          "China",
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "QUETZAL QUIMICA S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.20055,
+        "fob": 1863.45,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos",
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "QUIMICA ANASTACIO ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 26.88,
+        "fob": 32357.6,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "QUIMICA CALLEGARI S R L",
+      "estado": "fuente secundaria identificada; verificar en ARCA",
+      "fecha_revision": "2026-10-31",
       "cuit": "30-65039546-4",
       "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (padrón reportado septiembre 2026)",
       "domicilio": "Álvaro Barros 1522, Luis Guillón, Buenos Aires",
@@ -13,10 +4586,440 @@
       "fuentes": [
         "https://quimicacallegari.com.ar/",
         "https://indicadores.ar/empresa/30650395464-quimica-callegari-s-r-l"
-      ]
+      ],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 79.5,
+        "fob": 107071.68,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
     },
     {
-      "match": "SOLKEM",
+      "nombre": "QUIMICA LUAR S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.00038,
+        "fob": 1.29,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "REAGENTS S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00102,
+        "fob": 77.61,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "REFIL SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 44,
+        "fob": 16642.24,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-08"
+        ],
+        "paises": [
+          "México"
+        ]
+      }
+    },
+    {
+      "nombre": "RESIKEM SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 19.99433,
+        "fob": 18377.32,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "S P F ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 56,
+        "fob": 173970,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04",
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "SADESA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 40.0331,
+        "fob": 56197.98,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "SAPORITI S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 42,
+        "fob": 74859.26,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-05",
+          "2026-08"
+        ],
+        "paises": [
+          "India",
+          "China",
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "SCHLUMBERGER ARGENTINA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 20,
+        "fob": 43823.4,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "SERVICIOS Y PRODUCTOS PARA BEBIDAS REFRE",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 20.425,
+        "fob": 227804.57,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-06"
+        ],
+        "paises": [
+          "Austria",
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "SHERWIN WILLIAMS ARGENTINA I C S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.0633,
+        "fob": 450,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Chile"
+        ]
+      }
+    },
+    {
+      "nombre": "SIGMA ALDRICH DE ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 47,
+        "toneladas": 0.24711,
+        "fob": 11461.92,
+        "productos": [
+          "CLORURO DE COLINA",
+          "GOMA XANTICA",
+          "GOMA GUAR",
+          "ARENAS Y CUARZOS",
+          "ALCOHOL ISOPROPILICO",
+          "GLUTARALDEHIDO",
+          "CLORURO DE BENZALCONIO 2026",
+          "MONOETANOLAMINA 2026",
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "Estados Unidos",
+          "España",
+          "Alemania",
+          "Reino Unido",
+          "Suiza",
+          "Francia",
+          "Canadá",
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "SMART CHEMICALS SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 101.6,
+        "fob": 145910,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "SOCIEDAD ANONIMA LA SIBILA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 8,
+        "fob": 72087.2,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-03"
+        ],
+        "paises": [
+          "España"
+        ]
+      }
+    },
+    {
+      "nombre": "SOLETANCHE BACHY ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 28,
+        "fob": 11131,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Argentina"
+        ]
+      }
+    },
+    {
+      "nombre": "SOLKEM S.R.L",
+      "estado": "fuente secundaria identificada; verificar en ARCA",
+      "fecha_revision": "2026-10-31",
       "cuit": "30-70965365-9",
       "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (padrón reportado septiembre 2026)",
       "domicilio": "Zapiola 4248, piso 3, oficina B, CABA",
@@ -28,18 +5031,807 @@
         "https://www.solkem.com.ar/",
         "https://indicadores.ar/empresa/30709653659-solkem-s-a",
         "https://w20argentina.com/boletin-oficial/2022/07/14/solkem-srl-4848529"
-      ]
+      ],
+      "resumen": {
+        "registros": 15,
+        "toneladas": 425.8,
+        "fob": 665647.6,
+        "productos": [
+          "GOMA XANTICA",
+          "GOMA GUAR",
+          "ALCOHOL ISOPROPILICO",
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-03",
+          "2026-04",
+          "2026-05",
+          "2026-06",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "China",
+          "India",
+          "Taiwán"
+        ]
+      }
     },
     {
-      "match": "PETROLERA COPSA",
-      "cuit": "30-66604945-0",
-      "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (fuente secundaria)",
-      "domicilio": "Suipacha 1067, piso 5, CABA (fuente secundaria)",
-      "telefono": "(011) 4129-3600 (directorio; verificar)",
-      "actividad": "Comercio mayorista de combustibles y lubricantes",
-      "fuentes": [
-        "https://indicadores.ar/empresa/30666049450-copsa-combustibles-quimicos-y-especialidades-s-a"
-      ]
+      "nombre": "SOLVAY QUIMICA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 4,
+        "toneladas": 1.102,
+        "fob": 24443.17,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-05",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Brasil",
+          "Francia",
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "SUELO Y VINOS S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 13.59,
+        "fob": 11305.3,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-02",
+          "2026-05"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "SURCELL S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 26,
+        "fob": 45260,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "SURFACTAN S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.5,
+        "fob": 3140.3,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-02"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "SYNGENTA AGRO SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 19.9,
+        "fob": 48995,
+        "productos": [
+          "BENTONITA",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01",
+          "2026-05",
+          "2026-08"
+        ],
+        "paises": [
+          "Brasil",
+          "Francia"
+        ]
+      }
+    },
+    {
+      "nombre": "TADEO CZERWENY TESAR S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 24,
+        "fob": 7380.15,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "TAU DELTA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 12.8,
+        "fob": 111358.8,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "TEC INSTRUMENTAL SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00052,
+        "fob": 231.13,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-04"
+        ],
+        "paises": [
+          "Alemania"
+        ]
+      }
+    },
+    {
+      "nombre": "THINNER TEDE S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 51.2,
+        "fob": 67570,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06",
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "TODO PANIFICACION S.R.L.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 17,
+        "fob": 23613,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "India"
+        ]
+      }
+    },
+    {
+      "nombre": "TRAPALCO S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 6,
+        "toneladas": 153.6,
+        "fob": 411508,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-02",
+          "2026-05",
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "TREND CHEMICAL SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.00226,
+        "fob": 2.31,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "TUBOSCOPE VETCO DE ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.27216,
+        "fob": 455.16,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "UNIFARMA SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.25,
+        "fob": 2427.25,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "UNILEVER DE ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 5,
+        "toneladas": 9.75,
+        "fob": 51619.42,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-05",
+          "2026-07",
+          "2026-08"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "UNIMERS ARGENTINA SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 39.45344,
+        "fob": 41312.79,
+        "productos": [
+          "MONOETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "VALEANT ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 0.62,
+        "fob": 11123.6,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-05",
+          "2026-08"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "VETANCO S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 6.6,
+        "fob": 8580,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "VIA BARILOCHE SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.00399,
+        "fob": 40.84,
+        "productos": [
+          "ALCOHOL ISOPROPILICO"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "VILLA D AGRI S R L",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 2,
+        "toneladas": 4,
+        "fob": 8444.79,
+        "productos": [
+          "GOMA GUAR",
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-01"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "VITROCOAT",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.025,
+        "fob": 50,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "VWS ARGENTINA S.A.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.1,
+        "fob": 24,
+        "productos": [
+          "ARENAS Y CUARZOS"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "Brasil"
+        ]
+      }
+    },
+    {
+      "nombre": "WD SRL",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 3,
+        "toneladas": 4,
+        "fob": 23350,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-03",
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "WIENER LABORATORIOS S.A.I.C.",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.08,
+        "fob": 4882.81,
+        "productos": [
+          "CLORURO DE COLINA"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Estados Unidos"
+        ]
+      }
+    },
+    {
+      "nombre": "WINI INGREDIENTES SA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 2,
+        "fob": 26840,
+        "productos": [
+          "GOMA GUAR"
+        ],
+        "meses": [
+          "2026-05"
+        ],
+        "paises": [
+          "Italia"
+        ]
+      }
+    },
+    {
+      "nombre": "WORLD ONE TRADE",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 0.01617,
+        "fob": 4,
+        "productos": [
+          "BENTONITA"
+        ],
+        "meses": [
+          "2026-06"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
+    },
+    {
+      "nombre": "YPF SOCIEDAD ANONIMA",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 13,
+        "fob": 25704,
+        "productos": [
+          "DIETANOLAMINA 2026"
+        ],
+        "meses": [
+          "2026-07"
+        ],
+        "paises": [
+          "Arabia Saudi"
+        ]
+      }
+    },
+    {
+      "nombre": "ZSCHIMMER Y SCHWARZ ARGENTINA S A",
+      "estado": "identificación fiscal pendiente",
+      "fecha_revision": null,
+      "cuit": null,
+      "condicion": null,
+      "domicilio": null,
+      "telefono": null,
+      "correo": null,
+      "web": null,
+      "actividad": null,
+      "fuentes": [],
+      "resumen": {
+        "registros": 1,
+        "toneladas": 20,
+        "fob": 42000,
+        "productos": [
+          "GOMA XANTICA"
+        ],
+        "meses": [
+          "2026-08"
+        ],
+        "paises": [
+          "China"
+        ]
+      }
     }
   ]
 }
