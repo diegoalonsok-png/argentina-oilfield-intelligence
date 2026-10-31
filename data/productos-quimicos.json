@@ -1,0 +1,126 @@
+[
+  {
+    "producto": "BENTONITA",
+    "ncm": [
+      "2508.10.00.000M"
+    ],
+    "cas_referencia": "1302-78-9",
+    "categoria": "Perforación",
+    "uso_posible": "Viscosificante de lodos",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "GOMA XANTICA",
+    "ncm": [
+      "3913.90.20.000H"
+    ],
+    "cas_referencia": "11138-66-2",
+    "categoria": "Perforación",
+    "uso_posible": "Modificador reológico",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "CLORURO DE COLINA",
+    "ncm": [
+      "2923.10.00.990Q"
+    ],
+    "cas_referencia": "67-48-1",
+    "categoria": "Multisectorial",
+    "uso_posible": "Nutrición animal; posible aditivo especializado de fluidos",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "GOMA GUAR",
+    "ncm": [
+      "1302.32.20.000B",
+      "1302.32.19.000K",
+      "1302.32.11.000Z"
+    ],
+    "cas_referencia": "9000-30-0",
+    "categoria": "Fractura",
+    "uso_posible": "Gelificante de fluidos",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "ARENAS Y CUARZOS",
+    "ncm": [
+      "2505.10.00.200T",
+      "2505.10.00.100M"
+    ],
+    "cas_referencia": "14808-60-7 (cuarzo)",
+    "categoria": "Fractura / Multisectorial",
+    "uso_posible": "Arena como agente de sostén solo si cumple especificación",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "ALCOHOL ISOPROPILICO",
+    "ncm": [
+      "2905.12.20.000B"
+    ],
+    "cas_referencia": "67-63-0",
+    "categoria": "Multisectorial",
+    "uso_posible": "Solvente y formulaciones",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "GLUTARALDEHIDO",
+    "ncm": [
+      "2912.19.12.000F"
+    ],
+    "cas_referencia": "111-30-8",
+    "categoria": "Fractura / Producción",
+    "uso_posible": "Biocida",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "MONOETANOLAMINA 2026",
+    "ncm": [
+      "2922.11.00.000F"
+    ],
+    "cas_referencia": "141-43-5",
+    "categoria": "Gas / Producción",
+    "uso_posible": "Tratamiento de gases ácidos",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "CLORURO DE BENZALCONIO 2026",
+    "ncm": [
+      "3824.99.86.300U"
+    ],
+    "cas_referencia": "Mezcla",
+    "categoria": "Producción / Agua",
+    "uso_posible": "Biocida y tensioactivo",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "DETA",
+    "ncm": [
+      "2921.29.10.000G"
+    ],
+    "cas_referencia": "111-40-0",
+    "categoria": "Multisectorial",
+    "uso_posible": "Intermedio para formulaciones",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  },
+  {
+    "producto": "DIETANOLAMINA 2026",
+    "ncm": [
+      "2922.12.00.100Y"
+    ],
+    "cas_referencia": "111-42-2",
+    "categoria": "Gas / Producción",
+    "uso_posible": "Tratamiento de gases ácidos",
+    "unidad": "t",
+    "advertencia": "Aplicación potencial, no consumo final acreditado"
+  }
+]
