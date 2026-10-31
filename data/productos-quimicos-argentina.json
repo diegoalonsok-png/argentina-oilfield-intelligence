@@ -6,7 +6,11 @@
     "categoria": "Lodo perforación",
     "uso": "Viscosificante lodo base agua",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 12000
+    "consumo_arg_promedio_anual_t": 12000,
+    "codigo_internacional_hs6": "250810",
+    "codigo_argentino_ncm": "2508.10.00",
+    "codigo_quimico_cas": "1302-78-9",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Baritina API",
@@ -15,7 +19,11 @@
     "categoria": "Lodo perforación",
     "uso": "Densificante lodo",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 18000
+    "consumo_arg_promedio_anual_t": 18000,
+    "codigo_internacional_hs6": "251110",
+    "codigo_argentino_ncm": "2511.10.00",
+    "codigo_quimico_cas": "13462-86-3",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Goma guar natural",
@@ -24,7 +32,11 @@
     "categoria": "Fractura hidráulica",
     "uso": "Gelificante fluido fractura Vaca Muerta",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 8500
+    "consumo_arg_promedio_anual_t": 8500,
+    "codigo_internacional_hs6": "130232",
+    "codigo_argentino_ncm": "1302.32.20",
+    "codigo_quimico_cas": "9000-30-0",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Goma guar HPG modificada",
@@ -33,7 +45,11 @@
     "categoria": "Fractura hidráulica",
     "uso": "Gelificante alta temp",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 3200
+    "consumo_arg_promedio_anual_t": 3200,
+    "codigo_internacional_hs6": "130232",
+    "codigo_argentino_ncm": "1302.32.20",
+    "codigo_quimico_cas": "39321-20-5",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Poliacrilamida aniónica",
@@ -42,7 +58,11 @@
     "categoria": "Fractura / EOR",
     "uso": "Reductor fricción slickwater",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 4500
+    "consumo_arg_promedio_anual_t": 4500,
+    "codigo_internacional_hs6": "390690",
+    "codigo_argentino_ncm": "3906.90.49",
+    "codigo_quimico_cas": "9003-05-8",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Cloruro de potasio",
@@ -51,7 +71,11 @@
     "categoria": "Lodo perforación",
     "uso": "Inhibidor arcillas",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 6000
+    "consumo_arg_promedio_anual_t": 6000,
+    "codigo_internacional_hs6": "310420",
+    "codigo_argentino_ncm": "3104.20.90",
+    "codigo_quimico_cas": "7447-40-7",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Carbonato de calcio malla",
@@ -60,7 +84,11 @@
     "categoria": "Lodo perforación",
     "uso": "Sellante y densificante liviano",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 4000
+    "consumo_arg_promedio_anual_t": 4000,
+    "codigo_internacional_hs6": "283650",
+    "codigo_argentino_ncm": "2836.50.00",
+    "codigo_quimico_cas": "1317-65-3",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Lignosulfonato de calcio",
@@ -69,7 +97,11 @@
     "categoria": "Lodo perforación",
     "uso": "Dispersante",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 1800
+    "consumo_arg_promedio_anual_t": 1800,
+    "codigo_internacional_hs6": "380400",
+    "codigo_argentino_ncm": "3804.00.20",
+    "codigo_quimico_cas": "8061-52-7",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Surfactante no iónico EO/PO",
@@ -78,7 +110,11 @@
     "categoria": "Producción",
     "uso": "Humectante / limpiador pozo",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 2200
+    "consumo_arg_promedio_anual_t": 2200,
+    "codigo_internacional_hs6": "340242",
+    "codigo_argentino_ncm": "3402.42.90",
+    "codigo_quimico_cas": "Mixto 9003-11-6",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Demulsificante base poliamina",
@@ -87,7 +123,11 @@
     "categoria": "Producción",
     "uso": "Separador agua-petróleo en baterías",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 2800
+    "consumo_arg_promedio_anual_t": 2800,
+    "codigo_internacional_hs6": "340290",
+    "codigo_argentino_ncm": "3402.90.39",
+    "codigo_quimico_cas": "Mixto",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Inhibidor de corrosión filmico",
@@ -96,7 +136,11 @@
     "categoria": "Producción",
     "uso": "Protección cañerías y oleoductos",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 3500
+    "consumo_arg_promedio_anual_t": 3500,
+    "codigo_internacional_hs6": "340290",
+    "codigo_argentino_ncm": "3402.90.39",
+    "codigo_quimico_cas": "Mixto amina",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Inhibidor de incrustación fosfonato",
@@ -105,7 +149,11 @@
     "categoria": "Producción",
     "uso": "Anti-scale BaSO4 / CaCO3",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 1600
+    "consumo_arg_promedio_anual_t": 1600,
+    "codigo_internacional_hs6": "293190",
+    "codigo_argentino_ncm": "2931.90.90",
+    "codigo_quimico_cas": "6419-19-8",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Biocida glutaraldehído 50%",
@@ -114,7 +162,11 @@
     "categoria": "Fractura / Producción",
     "uso": "Control bacteriano sulfato-reductoras",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 2100
+    "consumo_arg_promedio_anual_t": 2100,
+    "codigo_internacional_hs6": "291219",
+    "codigo_argentino_ncm": "2912.19.22",
+    "codigo_quimico_cas": "111-30-8",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Metanol",
@@ -123,7 +175,11 @@
     "categoria": "Producción / Gas",
     "uso": "Inhibidor hidratos / anticongelante",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 9000
+    "consumo_arg_promedio_anual_t": 9000,
+    "codigo_internacional_hs6": "290511",
+    "codigo_argentino_ncm": "2905.11.00",
+    "codigo_quimico_cas": "67-56-1",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Isopropanol",
@@ -132,7 +188,11 @@
     "categoria": "Laboratorio / Producción",
     "uso": "Solvente y limpieza",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 800
+    "consumo_arg_promedio_anual_t": 800,
+    "codigo_internacional_hs6": "290512",
+    "codigo_argentino_ncm": "2905.12.20",
+    "codigo_quimico_cas": "67-63-0",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Ácido clorhídrico 32%",
@@ -141,7 +201,11 @@
     "categoria": "Estimulación ácida",
     "uso": "Acidificación carbonatos",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 7000
+    "consumo_arg_promedio_anual_t": 7000,
+    "codigo_internacional_hs6": "280610",
+    "codigo_argentino_ncm": "2806.10.20",
+    "codigo_quimico_cas": "7647-01-0",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Ácido acético glacial",
@@ -150,7 +214,11 @@
     "categoria": "Estimulación",
     "uso": "Pre-flush ácido",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 1200
+    "consumo_arg_promedio_anual_t": 1200,
+    "codigo_internacional_hs6": "291521",
+    "codigo_argentino_ncm": "2915.21.00",
+    "codigo_quimico_cas": "64-19-7",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Persulfato de amonio",
@@ -159,7 +227,11 @@
     "categoria": "Fractura",
     "uso": "Breaker gel guar",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 1500
+    "consumo_arg_promedio_anual_t": 1500,
+    "codigo_internacional_hs6": "283340",
+    "codigo_argentino_ncm": "2833.40.10",
+    "codigo_quimico_cas": "7727-54-0",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Borato de sodio / Ácido bórico",
@@ -168,7 +240,11 @@
     "categoria": "Fractura",
     "uso": "Crosslinker guar - reticulante",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 1100
+    "consumo_arg_promedio_anual_t": 1100,
+    "codigo_internacional_hs6": "284011",
+    "codigo_argentino_ncm": "2840.11.00",
+    "codigo_quimico_cas": "1303-96-4",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Xanthan gum",
@@ -177,7 +253,11 @@
     "categoria": "Lodo perforación",
     "uso": "Viscosificante biopolímero",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 900
+    "consumo_arg_promedio_anual_t": 900,
+    "codigo_internacional_hs6": "391390",
+    "codigo_argentino_ncm": "3913.90.90",
+    "codigo_quimico_cas": "11138-66-2",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Carboximetilcelulosa CMC",
@@ -186,7 +266,11 @@
     "categoria": "Lodo perforación",
     "uso": "Control filtrado",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 1300
+    "consumo_arg_promedio_anual_t": 1300,
+    "codigo_internacional_hs6": "391231",
+    "codigo_argentino_ncm": "3912.31.21",
+    "codigo_quimico_cas": "9000-11-7",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Etilenglicol MEG",
@@ -195,7 +279,11 @@
     "categoria": "Gas / Producción",
     "uso": "Inhibidor hidratos gasoductos",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 5500
+    "consumo_arg_promedio_anual_t": 5500,
+    "codigo_internacional_hs6": "290531",
+    "codigo_argentino_ncm": "2905.31.00",
+    "codigo_quimico_cas": "107-21-1",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Trietilenglicol TEG",
@@ -204,7 +292,11 @@
     "categoria": "Gas",
     "uso": "Deshidratación gas natural",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 800
+    "consumo_arg_promedio_anual_t": 800,
+    "codigo_internacional_hs6": "290949",
+    "codigo_argentino_ncm": "2909.49.90",
+    "codigo_quimico_cas": "112-27-6",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Soda cáustica líquida 50%",
@@ -213,7 +305,11 @@
     "categoria": "General",
     "uso": "Control pH lodos y tratamiento agua",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 6000
+    "consumo_arg_promedio_anual_t": 6000,
+    "codigo_internacional_hs6": "281512",
+    "codigo_argentino_ncm": "2815.12.00",
+    "codigo_quimico_cas": "1310-73-2",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Hipoclorito de sodio 12%",
@@ -222,7 +318,11 @@
     "categoria": "Agua / Biocida",
     "uso": "Tratamiento agua fractura",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 2000
+    "consumo_arg_promedio_anual_t": 2000,
+    "codigo_internacional_hs6": "282890",
+    "codigo_argentino_ncm": "2828.90.11",
+    "codigo_quimico_cas": "7681-52-9",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Citrato de sodio",
@@ -231,7 +331,11 @@
     "categoria": "Fractura",
     "uso": "Buffer pH crosslink",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 600
+    "consumo_arg_promedio_anual_t": 600,
+    "codigo_internacional_hs6": "291815",
+    "codigo_argentino_ncm": "2918.15.00",
+    "codigo_quimico_cas": "6132-04-3",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Cloruro de calcio 95%",
@@ -240,7 +344,11 @@
     "categoria": "Completación",
     "uso": "Salmuera completación",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 3500
+    "consumo_arg_promedio_anual_t": 3500,
+    "codigo_internacional_hs6": "282720",
+    "codigo_argentino_ncm": "2827.20.00",
+    "codigo_quimico_cas": "10043-52-4",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Bromuro de calcio",
@@ -249,7 +357,11 @@
     "categoria": "Completación",
     "uso": "Salmuera alta densidad",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 800
+    "consumo_arg_promedio_anual_t": 800,
+    "codigo_internacional_hs6": "282759",
+    "codigo_argentino_ncm": "2827.59.00",
+    "codigo_quimico_cas": "7789-41-5",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Propante arena 20/40 importada",
@@ -258,7 +370,11 @@
     "categoria": "Fractura",
     "uso": "Sostén fractura Vaca Muerta",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 250000
+    "consumo_arg_promedio_anual_t": 250000,
+    "codigo_internacional_hs6": "250510",
+    "codigo_argentino_ncm": "2505.10.00",
+    "codigo_quimico_cas": "14808-60-7",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   },
   {
     "producto": "Propante cerámico",
@@ -267,6 +383,10 @@
     "categoria": "Fractura",
     "uso": "Propante alta resistencia",
     "unidad": "t",
-    "consumo_arg_promedio_anual_t": 15000
+    "consumo_arg_promedio_anual_t": 15000,
+    "codigo_internacional_hs6": "690919",
+    "codigo_argentino_ncm": "6909.19.00",
+    "codigo_quimico_cas": "66402-68-4",
+    "advertencia_codigo": "HS6 derivado de los 6 primeros dígitos del NCM del catálogo; clasificación y vigencia arancelaria requieren verificación oficial según presentación del producto."
   }
 ]
