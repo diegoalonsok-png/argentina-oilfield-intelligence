@@ -30,3 +30,7 @@ No se ha asignado DOI. Las licencias y derechos de redistribución deben verific
 - **Dataset v2026.08:** enero–agosto de 2026, 846 registros conservados.
 - **Metodología v1.0 (2026-10-31):** documentación bilingüe y auditoría cuantitativa.
 - **Sitio:** evolución continua del código; la versión del dataset no cambia con cada ajuste visual.
+
+## Integración ARCA / procedencia
+
+El estado exacto está en [estado_datos.json](estado_datos.json); el historial en [CHANGELOG_DATOS.md](CHANGELOG_DATOS.md). **ARCA no forma parte todavía del dataset publicado.** El script [arca_lst_a_csv.py](scripts/arca_lst_a_csv.py) convierte únicamente formatos delimitados con cabeceras; archivos de ancho fijo requieren especificaciones oficiales. No se supone que un LST tenga separador de tabulación sin examinarlo.
