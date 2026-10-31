@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utiliza este observatorio o sus datos, cite el recurso con esta referencia."
+title: "Argentina Oilfield Intelligence: Observatorio de importaciones de insumos químicos vinculados a la cadena energética"
+type: dataset
+authors:
+  - family-names: Kurilo
+    given-names: Diego A.
+abstract: "Dataset parcial de importaciones argentinas de insumos químicos y materiales industriales seleccionados, enero–agosto de 2026, con análisis de participaciones en la muestra y límites documentados."
+version: "2026.08"
+date-released: "2026-10-31"
+url: "https://diegoalonsok-png.github.io/argentina-oilfield-intelligence/"
+repository-code: "https://github.com/diegoalonsok-png/argentina-oilfield-intelligence"
