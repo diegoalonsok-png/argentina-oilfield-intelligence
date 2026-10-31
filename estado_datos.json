@@ -1,0 +1,9 @@
+{
+  "dataset_excel": "v2026.08",
+  "periodo_excel": "2026-01 a 2026-08",
+  "arca_integrado": false,
+  "ultima_incorporacion_arca": null,
+  "ultima_descarga_arca": null,
+  "ultimo_archivo_arca": null,
+  "nota": "No se han incorporado operaciones ARCA a la base nacional. El módulo ARCA solo permite carga local de CSV/TXT."
+}
