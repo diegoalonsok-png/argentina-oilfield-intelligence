@@ -4552,16 +4552,22 @@
     },
     {
       "nombre": "QUIMICA ANASTACIO ARGENTINA S.A.",
-      "estado": "identificación fiscal pendiente",
-      "fecha_revision": null,
-      "cuit": null,
-      "condicion": null,
-      "domicilio": null,
-      "telefono": null,
+      "estado": "CUIT y sede societaria documentados; contacto corporativo público",
+      "fecha_revision": "2026-10-31",
+      "cuit": "30-71522974-5",
+      "condicion": "IVA Responsable Inscripto y Ganancias Inscripto (fuente secundaria: septiembre 2026)",
+      "domicilio": "Av. Eduardo Madero 942, piso 23, CABA (sede societaria; Boletín Oficial 30/05/2025)",
+      "telefono": "+54 9 11 3988-2020 (oficina Argentina, sitio corporativo)",
       "correo": null,
-      "web": null,
-      "actividad": null,
-      "fuentes": [],
+      "web": "https://anastacio.com/es/",
+      "actividad": "Comercialización y distribución mayorista de productos químicos (CIIU 466939, fuente secundaria)",
+      "fuentes": [
+        "https://otslist.boletinoficial.gob.ar/ots/download/fc1b7b8a2d07bc8a3da7e389d840eb96392d8da91b96225c0d8c18cde8fa6f2b/0/",
+        "https://w20argentina.com/boletin-oficial/2021/04/20/quimica-anastacio-argentina-sau-4764865",
+        "https://anastacio.com/es/",
+        "https://indicadores.ar/empresa/30715229745-quimica-anastacio-argentina-s-a-u",
+        "https://www.linkedin.com/company/quimicaanastacio"
+      ],
       "resumen": {
         "registros": 1,
         "toneladas": 26.88,
@@ -4575,7 +4581,11 @@
         "paises": [
           "China"
         ]
-      }
+      },
+      "linkedin": "https://www.linkedin.com/company/quimicaanastacio",
+      "linkedin_nombre": "Química Anastacio (perfil corporativo regional)",
+      "linkedin_estado": "Perfil regional corporativo; no perfil jurídico exclusivo de la filial",
+      "observacion_legal": "Química Anastacio Argentina S.A. pasó a S.A.U. según Boletín Oficial 20/04/2021. No se modificó el nombre histórico del importador en los registros."
     },
     {
       "nombre": "QUIMICA CALLEGARI S R L",
