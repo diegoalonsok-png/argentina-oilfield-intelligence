@@ -69,3 +69,13 @@ Cada pedido debería registrarse con ID, fecha, requisito, prioridad, archivos m
 - ⚠️ Pendiente **certificación visual responsive** de contraste en tablas, modales, mapas y dispositivos móviles. No debe declararse completamente verificado antes de esa prueba.
 - ⚠️ Sigue **sin existir** `data/pozos-oficiales.csv`; el workflow creado no equivale a datos poblados. El mapa geográfico nacional permanece en estado parcial hasta comprobar descarga y publicación.
 - ⚠️ ARCA continúa `arca_integrado: false`: sin ingesta automática probada.
+
+## Revisión de valoración externa — 31/10/2026
+
+- **Supuesto 404 en datos.json:** no demostrado mediante HTTP público. Los blobs `datos.json` y `data/datos.json` existen en la rama principal con el mismo SHA y 846 registros. La portada intenta primero `./data/datos.json`, después `./datos.json`, y finalmente respaldo raw GitHub. **Pendiente:** test en navegador con red/consola y estado HTTP.
+- **JavaScript portada:** 18 bloques de script pasan comprobación sintáctica; esto no reemplaza prueba de ejecución.
+- **Mapeo 15 empresas y catálogo 30 productos:** existen en `/data/`; el mapeo es parcial y no identifica todo el universo de 203 empresas.
+- **Gráfico mensual:** existe Chart.js en `buscador-sectorial.html`; no atribuir su existencia a todas las vistas.
+- **YPF/Halliburton/Bolland con participaciones y orígenes 2024:** corresponden a datos ilustrativos, no se deben publicar como resultados de la base real 2026.
+- **Cuota de mercado real/consumo químico nacional:** no calculable con el universo parcial de Excel; etiqueta válida: participación dentro de las importaciones de la muestra.
+- **Estado auditoría:** no declarar fallo corregido ni sitio certificado sin comprobar GitHub Pages en un navegador real.
