@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Descarga padrón geográfico oficial Capítulo IV, sin inventar geolocalizaciones."""
-import csv, io, json, os, sys, urllib.request, datetime
+import csv, io, json, os, sys, urllib.request, datetime, tempfile, hashlib
 from pathlib import Path
 
 URL = "https://datos.energia.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cb5c0f04-7835-45cd-b982-3e25ca7d7751/download/capitulo-iv-pozos.csv"
@@ -71,8 +71,10 @@ with dst.open("w",newline="",encoding="utf-8") as f:
                 continue
         except ValueError: continue
         if not (-57<=lat<=-21 and -74<=lon<=-53):continue
-        w.writerow([field(row,"idpozo"),field(row,"sigla"),field(row,"empresa","empresa_informante"),field(row,"provincia"),field(row,"tipo_recurso"),lat,lon])
+        w.writerow([field(row,"idpozo"),field(row,"sigla"),field(row,"empresa","empresa_informante"),field(row,"provincia"),field(row,"tipo_recurso"),lon,lat])
         n+=1
-if n<100: raise RuntimeError(f"Solo {n} pozos válidos: revisar esquema antes de publicar")
-(root/"data"/"pozos-origen.json").write_text(json.dumps({"fuente":resolved_url,"fecha_descarga_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"filas_geolocalizadas":n,"advertencia":"Padrón geográfico: no contiene necesariamente producción por mes ni consumo de químicos."},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+if n<100:
+    dst.unlink(missing_ok=True)
+    raise RuntimeError(f"Solo {n} pozos válidos: revisar esquema antes de publicar")
+(root/"data"/"pozos-origen.json").write_text(json.dumps({"fuente":resolved_url,"fecha_descarga_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"filas_geolocalizadas":n,"sha256_archivo_original":hashlib.sha256(raw).hexdigest(),"orden_coordenadas_publicado":"coordenadax=longitud, coordenaday=latitud","advertencia":"Padrón geográfico: no contiene necesariamente producción por mes ni consumo de químicos."},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print(f"{n} pozos geolocalizados publicados")
