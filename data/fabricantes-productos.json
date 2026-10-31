@@ -1,6 +1,6 @@
 {
   "actualizado": "2026-10-31",
-  "metodologia": "Directorio inicial documental; la cuota de mercado no puede calcularse con registros de importador sin fabricante/exportador. Contactos y perfiles son enlaces empresariales o de búsqueda explícitamente diferenciados.; identificación basada en empresas documentadas para determinados productos; catálogo sin atribución exhaustiva de fabricantes.",
+  "metodologia": "Directorio inicial documental; la cuota de mercado no puede calcularse con registros de importador sin fabricante/exportador. Contactos y perfiles son enlaces empresariales o de búsqueda explícitamente diferenciados.; identificación basada en empresas documentadas para determinados productos; catálogo sin atribución exhaustiva de fabricantes. Los teléfonos y correos se publican únicamente cuando constan en fuentes empresariales. El país de origen de una importación no atribuye la venta a ninguno de los fabricantes listados.",
   "fabricantes": [
     {
       "empresa": "YPF Química",
@@ -21,14 +21,15 @@
       "pais": "Francia",
       "productos": "Poliacrilamidas y polímeros solubles en agua para industria y petróleo",
       "web": "https://www.snf.com/",
-      "contacto": "Sitio corporativo",
-      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=SNF%20Group",
+      "contacto": "Consulta comercial: sitio corporativo",
+      "linkedin": "https://www.linkedin.com/company/snf-group",
       "fuente": "https://www.snf.com/about-us/",
       "tipo": "Fabricante internacional",
       "participacion_mercado_por_producto": "No determinada",
       "periodo_cuota": null,
       "universo_cuota": null,
-      "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI."
+      "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI.",
+      "fuente_contacto": "https://www.snf.com/"
     },
     {
       "empresa": "BASF",
@@ -66,9 +67,12 @@
       "web": "https://vikaswspltd.in/",
       "fuente": "https://vikaswspltd.in/about-us/",
       "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Vikas%20WSP",
-      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "contacto": "Ventas internacionales, Sri Ganganagar, India",
       "participacion_mercado_por_producto": "No determinada",
-      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado.",
+      "telefono": "+91 154 2494512",
+      "correo": "exportmkt@vikaswspltd.in",
+      "fuente_contacto": "https://vikaswspltd.in/contact-us/"
     },
     {
       "empresa": "Hindustan Gum & Chemicals",
@@ -113,10 +117,13 @@
       "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
       "web": "https://www.jungbunzlauer.com/",
       "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
-      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Jungbunzlauer",
-      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "linkedin": "https://www.linkedin.com/company/jungbunzlauer",
+      "contacto": "Sede Basilea, Suiza",
       "participacion_mercado_por_producto": "No determinada",
-      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado.",
+      "telefono": "+41 61 295 51 00",
+      "correo": "headquarters@jungbunzlauer.com",
+      "fuente_contacto": "https://www.jungbunzlauer.com/contact/"
     },
     {
       "empresa": "CP Kelco",
@@ -149,10 +156,11 @@
       "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
       "web": "https://www.fufeng-group.com/",
       "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
-      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Fufeng%20Group",
-      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "linkedin": "https://www.linkedin.com/company/fufeng-group",
+      "contacto": "Sitio corporativo; goma xántica",
       "participacion_mercado_por_producto": "No determinada",
-      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado.",
+      "fuente_contacto": "https://es.linkedin.com/company/fufeng-group"
     },
     {
       "empresa": "Meihua Group",
