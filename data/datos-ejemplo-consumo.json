@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2024-03-15",
+    "producto": "Goma guar natural",
+    "importador_declarado": "HALLIBURTON ARGENTINA SRL",
+    "pais_origen": "Pakistán",
+    "ncm_sim": "1302.32.20",
+    "toneladas_netas": 80,
+    "fob_usd": 96000,
+    "cif_usd": 104000,
+    "exportador_declarado": "No informado en planilla",
+    "categoria": "Fractura hidráulica"
+  },
+  {
+    "fecha": "2024-03-18",
+    "producto": "Goma guar natural",
+    "importador_declarado": "BOLLAND Y CIA SA",
+    "pais_origen": "India",
+    "ncm_sim": "1302.32.20",
+    "toneladas_netas": 45,
+    "fob_usd": 58500,
+    "cif_usd": 63000,
+    "exportador_declarado": "No informado en planilla",
+    "categoria": "Fractura hidráulica"
+  },
+  {
+    "fecha": "2024-02-10",
+    "producto": "Baritina API",
+    "importador_declarado": "YPF SA",
+    "pais_origen": "Marruecos",
+    "ncm_sim": "2511.10.00",
+    "toneladas_netas": 500,
+    "fob_usd": 75000,
+    "cif_usd": 85000,
+    "exportador_declarado": "No informado en planilla",
+    "categoria": "Lodo perforación"
+  },
+  {
+    "fecha": "2024-01-22",
+    "producto": "Inhibidor de corrosión filmico",
+    "importador_declarado": "NALCO ARGENTINA SRL",
+    "pais_origen": "Estados Unidos",
+    "ncm_sim": "3402.90.39",
+    "toneladas_netas": 22,
+    "fob_usd": 88000,
+    "cif_usd": 95000,
+    "exportador_declarado": "No informado en planilla",
+    "categoria": "Producción"
+  }
+]
