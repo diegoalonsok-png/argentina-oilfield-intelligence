@@ -5,9 +5,41 @@ from pathlib import Path
 
 URL = "https://datos.energia.gob.ar/dataset/c846e79c-026c-4040-897f-1ad3543b407c/resource/cb5c0f04-7835-45cd-b982-3e25ca7d7751/download/capitulo-iv-pozos.csv"
 root = Path(__file__).resolve().parents[1]
-req = urllib.request.Request(URL,headers={"User-Agent":"ArgentinaOilfieldIntelligence/1.0 academic data importer"})
-with urllib.request.urlopen(req,timeout=100) as res:
-    raw=res.read()
+# Resolver URL por el catálogo oficial antes de usar la copia histórica.
+# El sitio puede cambiar las rutas directas manteniendo el identificador de recurso.
+CATALOG = "https://datos.gob.ar/api/3/action/package_show?id=energia-produccion-petroleo-gas-por-pozo-capitulo-iv"
+urls = []
+try:
+    req = urllib.request.Request(CATALOG, headers={"User-Agent": "ArgentinaOilfieldIntelligence/1.0"})
+    with urllib.request.urlopen(req, timeout=40) as response:
+        package = json.load(response)["result"]
+    for resource in package.get("resources", []):
+        title = str(resource.get("name", "")).lower().strip()
+        fmt = str(resource.get("format", "")).lower().strip()
+        target = resource.get("url", "")
+        if "capítulo iv - pozos" in title or "capitulo iv - pozos" in title:
+            if fmt == "csv" and target.startswith("https://"):
+                urls.append(target)
+except Exception as exc:
+    print("Aviso: catálogo oficial no disponible:", exc, file=sys.stderr)
+urls.append(URL)
+raw = None
+resolved_url = None
+errors = []
+for candidate in dict.fromkeys(urls):
+    try:
+        req = urllib.request.Request(candidate, headers={"User-Agent": "ArgentinaOilfieldIntelligence/1.0 academic data importer"})
+        with urllib.request.urlopen(req, timeout=100) as res:
+            data = res.read()
+        if len(data) < 200:
+            raise ValueError("Archivo demasiado pequeño")
+        raw = data
+        resolved_url = candidate
+        break
+    except Exception as exc:
+        errors.append(str(exc))
+if raw is None:
+    raise RuntimeError("No fue posible descargar el padrón: " + " | ".join(errors))
 if len(raw)<200: raise RuntimeError("Archivo oficial vacío")
 txt=raw.decode("utf-8-sig",errors="replace")
 dialect=csv.Sniffer().sniff(txt[:10000],delimiters=",;\t")
@@ -42,5 +74,5 @@ with dst.open("w",newline="",encoding="utf-8") as f:
         w.writerow([field(row,"idpozo"),field(row,"sigla"),field(row,"empresa","empresa_informante"),field(row,"provincia"),field(row,"tipo_recurso"),lat,lon])
         n+=1
 if n<100: raise RuntimeError(f"Solo {n} pozos válidos: revisar esquema antes de publicar")
-(root/"data"/"pozos-origen.json").write_text(json.dumps({"fuente":URL,"fecha_descarga_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"filas_geolocalizadas":n,"advertencia":"Padrón geográfico: no contiene necesariamente producción por mes ni consumo de químicos."},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+(root/"data"/"pozos-origen.json").write_text(json.dumps({"fuente":resolved_url,"fecha_descarga_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"filas_geolocalizadas":n,"advertencia":"Padrón geográfico: no contiene necesariamente producción por mes ni consumo de químicos."},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print(f"{n} pozos geolocalizados publicados")
