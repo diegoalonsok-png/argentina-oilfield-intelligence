@@ -27,8 +27,16 @@ with dst.open("w",newline="",encoding="utf-8") as f:
     w.writerow(["idpozo","sigla","empresa","provincia","tipo_recurso","coordenadax","coordenaday"])
     for row in reader:
         try:
-            lat=float(field(row,"coordenadax").replace(",","."))
-            lon=float(field(row,"coordenaday").replace(",","."))
+            x=float(field(row,"coordenadax").replace(",","."))
+            y=float(field(row,"coordenaday").replace(",","."))
+            # En cartografía X suele ser longitud e Y latitud; validar rangos
+            # en lugar de asumir el orden del origen.
+            if -74 <= x <= -53 and -57 <= y <= -21:
+                lon,lat=x,y
+            elif -74 <= y <= -53 and -57 <= x <= -21:
+                lon,lat=y,x
+            else:
+                continue
         except ValueError: continue
         if not (-57<=lat<=-21 and -74<=lon<=-53):continue
         w.writerow([field(row,"idpozo"),field(row,"sigla"),field(row,"empresa","empresa_informante"),field(row,"provincia"),field(row,"tipo_recurso"),lat,lon])
