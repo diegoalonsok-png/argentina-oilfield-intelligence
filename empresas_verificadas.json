@@ -5035,7 +5035,8 @@
       "fuentes": [
         "https://www.solkem.com.ar/",
         "https://indicadores.ar/empresa/30709653659-solkem-s-a",
-        "https://w20argentina.com/boletin-oficial/2022/07/14/solkem-srl-4848529"
+        "https://w20argentina.com/boletin-oficial/2022/07/14/solkem-srl-4848529",
+        "https://www.linkedin.com/company/solkem-s-r-l-"
       ],
       "resumen": {
         "registros": 15,
@@ -5061,7 +5062,12 @@
           "India",
           "Taiwán"
         ]
-      }
+      },
+      "linkedin": "https://www.linkedin.com/company/solkem-s-r-l-",
+      "linkedin_nombre": "Solkem",
+      "linkedin_estado": "Perfil corporativo verificado por coincidencia con sitio oficial y actividad",
+      "linkedin_fuente": "https://www.linkedin.com/company/solkem-s-r-l-",
+      "observacion_legal": "SOLKEM S.R.L. se transformó en SOLKEM S.A. en 2022, conservando CUIT 30-70965365-9; nombre de importador preservado como aparece en planilla."
     },
     {
       "nombre": "SOLVAY QUIMICA SA",
