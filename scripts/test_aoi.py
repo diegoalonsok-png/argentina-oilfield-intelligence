@@ -14,10 +14,10 @@ def test(ok,label,warning=False):
     print(("PASS" if ok else "WARN" if warning else "FAIL")+" "+label)
 class Links(HTMLParser):
     def __init__(self):
-        super().__init__();self.links=[];self.ids=set()
+        super().__init__();self.links=[];self.ids=set();self.duplicate_ids=set()
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
-        if a.get("id"): self.ids.add(a["id"])
+        if a.get("id"):\n            if a["id"] in self.ids:self.duplicate_ids.add(a["id"])\n            self.ids.add(a["id"])
         if tag in ("a","script","link") and (a.get("href") or a.get("src")):
             self.links.append(a.get("href") or a.get("src"))
 files=sorted(ROOT.glob("*.html"))
@@ -34,7 +34,7 @@ for f in files:
         if not short: continue
         p=(f.parent/short.lstrip("/")) if not short.startswith("/") else ROOT/short.lstrip("/")
         test(p.is_file(),f"Enlace local: {f.name} -> {short}")
-    test(len(parser.ids)==len(set(parser.ids)),f"IDs detectados: {f.name}",warning=True)
+    test(not parser.duplicate_ids,f"IDs únicos: {f.name}"+(f" ({sorted(parser.duplicate_ids)})" if parser.duplicate_ids else ""),warning=True)
 for path in ["data/datos.json","data/productos-quimicos.json","data/diccionario.json"]:
     test((ROOT/path).exists(),f"Archivo de referencia: {path}")
 data=json.loads((ROOT/"data/datos.json").read_text(encoding="utf-8"))
