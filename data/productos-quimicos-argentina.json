@@ -1,0 +1,272 @@
+[
+  {
+    "producto": "Bentonita API",
+    "ncm": "2508.10.00",
+    "cas": "1302-78-9",
+    "categoria": "Lodo perforación",
+    "uso": "Viscosificante lodo base agua",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 12000
+  },
+  {
+    "producto": "Baritina API",
+    "ncm": "2511.10.00",
+    "cas": "13462-86-3",
+    "categoria": "Lodo perforación",
+    "uso": "Densificante lodo",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 18000
+  },
+  {
+    "producto": "Goma guar natural",
+    "ncm": "1302.32.20",
+    "cas": "9000-30-0",
+    "categoria": "Fractura hidráulica",
+    "uso": "Gelificante fluido fractura Vaca Muerta",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 8500
+  },
+  {
+    "producto": "Goma guar HPG modificada",
+    "ncm": "1302.32.20",
+    "cas": "39321-20-5",
+    "categoria": "Fractura hidráulica",
+    "uso": "Gelificante alta temp",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 3200
+  },
+  {
+    "producto": "Poliacrilamida aniónica",
+    "ncm": "3906.90.49",
+    "cas": "9003-05-8",
+    "categoria": "Fractura / EOR",
+    "uso": "Reductor fricción slickwater",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 4500
+  },
+  {
+    "producto": "Cloruro de potasio",
+    "ncm": "3104.20.90",
+    "cas": "7447-40-7",
+    "categoria": "Lodo perforación",
+    "uso": "Inhibidor arcillas",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 6000
+  },
+  {
+    "producto": "Carbonato de calcio malla",
+    "ncm": "2836.50.00",
+    "cas": "1317-65-3",
+    "categoria": "Lodo perforación",
+    "uso": "Sellante y densificante liviano",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 4000
+  },
+  {
+    "producto": "Lignosulfonato de calcio",
+    "ncm": "3804.00.20",
+    "cas": "8061-52-7",
+    "categoria": "Lodo perforación",
+    "uso": "Dispersante",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 1800
+  },
+  {
+    "producto": "Surfactante no iónico EO/PO",
+    "ncm": "3402.42.90",
+    "cas": "Mixto 9003-11-6",
+    "categoria": "Producción",
+    "uso": "Humectante / limpiador pozo",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 2200
+  },
+  {
+    "producto": "Demulsificante base poliamina",
+    "ncm": "3402.90.39",
+    "cas": "Mixto",
+    "categoria": "Producción",
+    "uso": "Separador agua-petróleo en baterías",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 2800
+  },
+  {
+    "producto": "Inhibidor de corrosión filmico",
+    "ncm": "3402.90.39",
+    "cas": "Mixto amina",
+    "categoria": "Producción",
+    "uso": "Protección cañerías y oleoductos",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 3500
+  },
+  {
+    "producto": "Inhibidor de incrustación fosfonato",
+    "ncm": "2931.90.90",
+    "cas": "6419-19-8",
+    "categoria": "Producción",
+    "uso": "Anti-scale BaSO4 / CaCO3",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 1600
+  },
+  {
+    "producto": "Biocida glutaraldehído 50%",
+    "ncm": "2912.19.22",
+    "cas": "111-30-8",
+    "categoria": "Fractura / Producción",
+    "uso": "Control bacteriano sulfato-reductoras",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 2100
+  },
+  {
+    "producto": "Metanol",
+    "ncm": "2905.11.00",
+    "cas": "67-56-1",
+    "categoria": "Producción / Gas",
+    "uso": "Inhibidor hidratos / anticongelante",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 9000
+  },
+  {
+    "producto": "Isopropanol",
+    "ncm": "2905.12.20",
+    "cas": "67-63-0",
+    "categoria": "Laboratorio / Producción",
+    "uso": "Solvente y limpieza",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 800
+  },
+  {
+    "producto": "Ácido clorhídrico 32%",
+    "ncm": "2806.10.20",
+    "cas": "7647-01-0",
+    "categoria": "Estimulación ácida",
+    "uso": "Acidificación carbonatos",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 7000
+  },
+  {
+    "producto": "Ácido acético glacial",
+    "ncm": "2915.21.00",
+    "cas": "64-19-7",
+    "categoria": "Estimulación",
+    "uso": "Pre-flush ácido",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 1200
+  },
+  {
+    "producto": "Persulfato de amonio",
+    "ncm": "2833.40.10",
+    "cas": "7727-54-0",
+    "categoria": "Fractura",
+    "uso": "Breaker gel guar",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 1500
+  },
+  {
+    "producto": "Borato de sodio / Ácido bórico",
+    "ncm": "2840.11.00",
+    "cas": "1303-96-4",
+    "categoria": "Fractura",
+    "uso": "Crosslinker guar - reticulante",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 1100
+  },
+  {
+    "producto": "Xanthan gum",
+    "ncm": "3913.90.90",
+    "cas": "11138-66-2",
+    "categoria": "Lodo perforación",
+    "uso": "Viscosificante biopolímero",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 900
+  },
+  {
+    "producto": "Carboximetilcelulosa CMC",
+    "ncm": "3912.31.21",
+    "cas": "9000-11-7",
+    "categoria": "Lodo perforación",
+    "uso": "Control filtrado",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 1300
+  },
+  {
+    "producto": "Etilenglicol MEG",
+    "ncm": "2905.31.00",
+    "cas": "107-21-1",
+    "categoria": "Gas / Producción",
+    "uso": "Inhibidor hidratos gasoductos",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 5500
+  },
+  {
+    "producto": "Trietilenglicol TEG",
+    "ncm": "2909.49.90",
+    "cas": "112-27-6",
+    "categoria": "Gas",
+    "uso": "Deshidratación gas natural",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 800
+  },
+  {
+    "producto": "Soda cáustica líquida 50%",
+    "ncm": "2815.12.00",
+    "cas": "1310-73-2",
+    "categoria": "General",
+    "uso": "Control pH lodos y tratamiento agua",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 6000
+  },
+  {
+    "producto": "Hipoclorito de sodio 12%",
+    "ncm": "2828.90.11",
+    "cas": "7681-52-9",
+    "categoria": "Agua / Biocida",
+    "uso": "Tratamiento agua fractura",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 2000
+  },
+  {
+    "producto": "Citrato de sodio",
+    "ncm": "2918.15.00",
+    "cas": "6132-04-3",
+    "categoria": "Fractura",
+    "uso": "Buffer pH crosslink",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 600
+  },
+  {
+    "producto": "Cloruro de calcio 95%",
+    "ncm": "2827.20.00",
+    "cas": "10043-52-4",
+    "categoria": "Completación",
+    "uso": "Salmuera completación",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 3500
+  },
+  {
+    "producto": "Bromuro de calcio",
+    "ncm": "2827.59.00",
+    "cas": "7789-41-5",
+    "categoria": "Completación",
+    "uso": "Salmuera alta densidad",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 800
+  },
+  {
+    "producto": "Propante arena 20/40 importada",
+    "ncm": "2505.10.00",
+    "cas": "14808-60-7",
+    "categoria": "Fractura",
+    "uso": "Sostén fractura Vaca Muerta",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 250000
+  },
+  {
+    "producto": "Propante cerámico",
+    "ncm": "6909.19.00",
+    "cas": "66402-68-4",
+    "categoria": "Fractura",
+    "uso": "Propante alta resistencia",
+    "unidad": "t",
+    "consumo_arg_promedio_anual_t": 15000
+  }
+]
