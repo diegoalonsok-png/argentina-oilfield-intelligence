@@ -1,6 +1,6 @@
 {
   "actualizado": "2026-10-31",
-  "metodologia": "Directorio inicial documental; la cuota de mercado no puede calcularse con registros de importador sin fabricante/exportador. Contactos y perfiles son enlaces empresariales o de búsqueda explícitamente diferenciados.",
+  "metodologia": "Directorio inicial documental; la cuota de mercado no puede calcularse con registros de importador sin fabricante/exportador. Contactos y perfiles son enlaces empresariales o de búsqueda explícitamente diferenciados.; identificación basada en empresas documentadas para determinados productos; catálogo sin atribución exhaustiva de fabricantes.",
   "fabricantes": [
     {
       "empresa": "YPF Química",
@@ -57,6 +57,114 @@
       "periodo_cuota": null,
       "universo_cuota": null,
       "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI."
+    },
+    {
+      "empresa": "Vikas WSP",
+      "pais": "India",
+      "productos": "Goma guar natural; Goma guar HPG modificada",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://vikaswspltd.in/",
+      "fuente": "https://vikaswspltd.in/about-us/",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Vikas%20WSP",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Hindustan Gum & Chemicals",
+      "pais": "India",
+      "productos": "Goma guar natural",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://apeda.gov.in/",
+      "fuente": "https://apeda.gov.in/sites/default/files/2024-04/Guargum_final_Profile.pdf",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Hindustan%20Gum%20%26%20Chemicals",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Jai Bharat Gum & Chemicals",
+      "pais": "India",
+      "productos": "Goma guar natural",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://apeda.gov.in/",
+      "fuente": "https://apeda.gov.in/sites/default/files/2024-04/Guargum_final_Profile.pdf",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Jai%20Bharat%20Gum%20%26%20Chemicals",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Shree Ram Gum Chemicals",
+      "pais": "India",
+      "productos": "Goma guar natural",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://apeda.gov.in/",
+      "fuente": "https://apeda.gov.in/sites/default/files/2024-04/Guargum_final_Profile.pdf",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Shree%20Ram%20Gum%20Chemicals",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Jungbunzlauer",
+      "pais": "Suiza",
+      "productos": "Goma xántica",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://www.jungbunzlauer.com/",
+      "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Jungbunzlauer",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "CP Kelco",
+      "pais": "Estados Unidos",
+      "productos": "Goma xántica",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://www.cpkelco.com/",
+      "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=CP%20Kelco",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Deosen Biochemical",
+      "pais": "China",
+      "productos": "Goma xántica",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://www.deosen.com/",
+      "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Deosen%20Biochemical",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Fufeng Group",
+      "pais": "China",
+      "productos": "Goma xántica",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://www.fufeng-group.com/",
+      "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Fufeng%20Group",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
+    },
+    {
+      "empresa": "Meihua Group",
+      "pais": "China",
+      "productos": "Goma xántica",
+      "tipo": "Fabricante o exportador documentado (no proveedor acreditado de AOI)",
+      "web": "https://www.meihuagrp.com/",
+      "fuente": "https://onlinelibrary.wiley.com/doi/10.1111/1751-7915.13867",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Meihua%20Group",
+      "contacto": "Consultar web corporativa; sin teléfono verificado",
+      "participacion_mercado_por_producto": "No determinada",
+      "observacion": "No puede atribuirse importación argentina a este fabricante sin campo fabricante/exportador declarado."
     }
   ]
 }
