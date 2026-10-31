@@ -1,0 +1,62 @@
+{
+  "actualizado": "2026-10-31",
+  "metodologia": "Directorio inicial documental; la cuota de mercado no puede calcularse con registros de importador sin fabricante/exportador. Contactos y perfiles son enlaces empresariales o de búsqueda explícitamente diferenciados.",
+  "fabricantes": [
+    {
+      "empresa": "YPF Química",
+      "pais": "Argentina",
+      "productos": "Metanol, solventes, biocidas y especialidades oilfield",
+      "web": "https://quimica.ypf.com/",
+      "contacto": "Sitio corporativo (contacto comercial)",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=YPF%20Quimica",
+      "fuente": "https://quimica.ypf.com/",
+      "tipo": "Fabricante y proveedor",
+      "participacion_mercado_por_producto": "No determinada",
+      "periodo_cuota": null,
+      "universo_cuota": null,
+      "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI."
+    },
+    {
+      "empresa": "SNF",
+      "pais": "Francia",
+      "productos": "Poliacrilamidas y polímeros solubles en agua para industria y petróleo",
+      "web": "https://www.snf.com/",
+      "contacto": "Sitio corporativo",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=SNF%20Group",
+      "fuente": "https://www.snf.com/about-us/",
+      "tipo": "Fabricante internacional",
+      "participacion_mercado_por_producto": "No determinada",
+      "periodo_cuota": null,
+      "universo_cuota": null,
+      "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI."
+    },
+    {
+      "empresa": "BASF",
+      "pais": "Alemania",
+      "productos": "Químicos industriales y especialidades; verificar producto y CAS específico",
+      "web": "https://www.basf.com/",
+      "contacto": "Sitio corporativo",
+      "linkedin": "https://www.linkedin.com/company/basf",
+      "fuente": "https://www.linkedin.com/company/basf",
+      "tipo": "Fabricante internacional",
+      "participacion_mercado_por_producto": "No determinada",
+      "periodo_cuota": null,
+      "universo_cuota": null,
+      "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI."
+    },
+    {
+      "empresa": "Dow",
+      "pais": "Estados Unidos",
+      "productos": "Químicos industriales y materiales; verificar producto y grado específico",
+      "web": "https://www.dow.com/",
+      "contacto": "Dow Argentina: +54 11 4319 0100 (oficina publicada)",
+      "linkedin": "https://www.linkedin.com/search/results/companies/?keywords=Dow",
+      "fuente": "https://corporate.dow.com/en-us/locations.html",
+      "tipo": "Fabricante internacional",
+      "participacion_mercado_por_producto": "No determinada",
+      "periodo_cuota": null,
+      "universo_cuota": null,
+      "observacion": "Presencia industrial documentada; no implica suministro a los importadores ni pozos de la muestra AOI."
+    }
+  ]
+}
