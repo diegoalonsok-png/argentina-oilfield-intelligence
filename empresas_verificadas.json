@@ -1,0 +1,45 @@
+{
+  "fecha_revision": "2026-10-31",
+  "empresas": [
+    {
+      "match": "QUIMICA CALLEGARI",
+      "cuit": "30-65039546-4",
+      "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (padrón reportado septiembre 2026)",
+      "domicilio": "Álvaro Barros 1522, Luis Guillón, Buenos Aires",
+      "telefono": "+54 11 5443-1250",
+      "correo": "ventas@quimicacallegari.com.ar",
+      "web": "https://quimicacallegari.com.ar/",
+      "actividad": "Fabricación y distribución de químicos industriales",
+      "fuentes": [
+        "https://quimicacallegari.com.ar/",
+        "https://indicadores.ar/empresa/30650395464-quimica-callegari-s-r-l"
+      ]
+    },
+    {
+      "match": "SOLKEM",
+      "cuit": "30-70965365-9",
+      "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (padrón reportado septiembre 2026)",
+      "domicilio": "Zapiola 4248, piso 3, oficina B, CABA",
+      "telefono": "+54 9 11 3796-3725 (ventas)",
+      "correo": "sales@solkem.com.ar",
+      "web": "https://www.solkem.com.ar/",
+      "actividad": "Comercialización de productos químicos",
+      "fuentes": [
+        "https://www.solkem.com.ar/",
+        "https://indicadores.ar/empresa/30709653659-solkem-s-a",
+        "https://w20argentina.com/boletin-oficial/2022/07/14/solkem-srl-4848529"
+      ]
+    },
+    {
+      "match": "PETROLERA COPSA",
+      "cuit": "30-66604945-0",
+      "condicion": "IVA Responsable Inscripto; Ganancias Inscripto (fuente secundaria)",
+      "domicilio": "Suipacha 1067, piso 5, CABA (fuente secundaria)",
+      "telefono": "(011) 4129-3600 (directorio; verificar)",
+      "actividad": "Comercio mayorista de combustibles y lubricantes",
+      "fuentes": [
+        "https://indicadores.ar/empresa/30666049450-copsa-combustibles-quimicos-y-especialidades-s-a"
+      ]
+    }
+  ]
+}
