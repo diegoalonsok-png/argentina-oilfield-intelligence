@@ -1,0 +1,105 @@
+{
+  "version": "v2026.08",
+  "total_registros": 846,
+  "periodo": "2026-01 a 2026-08",
+  "fuente_general": "Planillas Excel aportadas al observatorio, no descarga automática de ARCA",
+  "unidad_base": "toneladas netas",
+  "campos": [
+    {
+      "campo": "producto",
+      "definicion": "Producto normalizado o categoría del archivo Excel original",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "Representa una de las 11 familias presentes; no implica uso petrolero efectivo"
+    },
+    {
+      "campo": "fecha",
+      "definicion": "Fecha registrada en la operación",
+      "tipo": "AAAA-MM-DD",
+      "procedencia": "Excel aportado",
+      "limitacion": "Según fecha informada en la fuente"
+    },
+    {
+      "campo": "mes",
+      "definicion": "Mes derivado de la fecha",
+      "tipo": "AAAA-MM",
+      "procedencia": "Transformación",
+      "limitacion": "No representa el año calendario completo"
+    },
+    {
+      "campo": "empresa",
+      "definicion": "Importador declarado en la planilla",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "No equivale a consumidor final o fabricante"
+    },
+    {
+      "campo": "ncm",
+      "definicion": "Código NCM declarado",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "La clasificación depende de vigencia y presentación"
+    },
+    {
+      "campo": "pais",
+      "definicion": "País o zona declarada en origen",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "No identifica por sí solo fabricante ni sede de proveedor"
+    },
+    {
+      "campo": "procedencia",
+      "definicion": "Procedencia indicada en planilla",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "Puede ser diferente de origen de fabricación"
+    },
+    {
+      "campo": "toneladas",
+      "definicion": "Peso neto convertido a toneladas",
+      "tipo": "t",
+      "procedencia": "Excel transformado",
+      "limitacion": "Conversión original kg / 1000, verificar unidad en fuente"
+    },
+    {
+      "campo": "fob",
+      "definicion": "Valor FOB declarado",
+      "tipo": "USD",
+      "procedencia": "Excel aportado",
+      "limitacion": "No equivale a precio final en Argentina"
+    },
+    {
+      "campo": "cif",
+      "definicion": "Valor CIF declarado",
+      "tipo": "USD",
+      "procedencia": "Excel aportado",
+      "limitacion": "No incluye toda la distribución interna"
+    },
+    {
+      "campo": "identificador",
+      "definicion": "Identificador documental de operación",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "No es identificador único por sí solo de línea si hay ítems"
+    },
+    {
+      "campo": "item",
+      "definicion": "Número de ítem de declaración",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "Considerar junto al identificador"
+    },
+    {
+      "campo": "descripcion",
+      "definicion": "Descripción comercial del registro",
+      "tipo": "Texto",
+      "procedencia": "Excel aportado",
+      "limitacion": "No equivale a especificación técnica completa"
+    }
+  ],
+  "auditoria": {
+    "registros_publicados": 846,
+    "duplicados_excluidos_declarados": 15,
+    "nota": "La bitácora del dataset declara 15 duplicados excluidos; el procedimiento exacto y archivos originales no se han publicado como código reproducible certificado."
+  }
+}
