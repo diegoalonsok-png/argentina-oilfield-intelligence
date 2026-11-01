@@ -33,3 +33,13 @@ html.aoi-night tbody tr:nth-child(even){background:#1e3042!important}
 html.aoi-night tbody tr:hover{background:#25465a!important}
 html.aoi-night thead th{background:#2a4054!important;color:#e8f0f5!important}
 @media print{table{box-shadow:none!important;border:1px solid #ccc!important}}
+
+/* v3: dark mode contrast — tables and data cells */
+html.aoi-night table,body.aoi-night table,[data-theme="dark"] table{background:#172b3d!important;color:#e7f1f8!important;border-color:#43586b!important}
+html.aoi-night table thead th,body.aoi-night table thead th,[data-theme="dark"] table thead th{background:#2b455a!important;color:#f5fbff!important;border-color:#526a7c!important}
+html.aoi-night table tbody tr,body.aoi-night table tbody tr,[data-theme="dark"] table tbody tr{background:#172b3d!important;color:#e7f1f8!important}
+html.aoi-night table tbody tr:nth-child(even),body.aoi-night table tbody tr:nth-child(even),[data-theme="dark"] table tbody tr:nth-child(even){background:#21374a!important}
+html.aoi-night table tbody tr:hover,body.aoi-night table tbody tr:hover,[data-theme="dark"] table tbody tr:hover{background:#305268!important}
+html.aoi-night table td,html.aoi-night table th,body.aoi-night table td,body.aoi-night table th,[data-theme="dark"] table td,[data-theme="dark"] table th{color:#e7f1f8!important;border-color:#415568!important}
+html.aoi-night table a,body.aoi-night table a,[data-theme="dark"] table a{color:#88e2e9!important}
+html.aoi-night table .muted,body.aoi-night table .muted,[data-theme="dark"] table .muted{color:#c3d4de!important}
