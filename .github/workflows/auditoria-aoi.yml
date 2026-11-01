@@ -18,3 +18,6 @@ jobs:
           python-version: "3.12"
       - name: Pruebas de enlaces, datos y matemáticas
         run: python scripts/test_aoi.py
+
+      - name: Validar JavaScript y rutas internas de todas las páginas
+        run: python scripts/test_frontend.py
