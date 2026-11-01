@@ -16,3 +16,20 @@ table{font-variant-numeric:tabular-nums}th{font-weight:650}tbody tr:hover{backgr
 @media(max-width:720px){main{max-width:100%;padding-inline:12px}.panel,section.panel{padding:14px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation-duration:.01ms!important}}
 @media print{.panel,section.panel{box-shadow:none!important;border-radius:0!important}}
+
+/* v2 — tablas redondeadas, claras y tipografía suave */
+table{border-collapse:separate!important;border-spacing:0!important;border:1px solid #dce6ee;border-radius:16px!important;background:#fff;overflow:hidden;font-size:14px;line-height:1.55;box-shadow:0 4px 20px rgba(19,46,69,.045)}
+thead th{background:#edf4f7!important;color:#29475a!important;font-weight:650!important;letter-spacing:.005em;border-bottom:1px solid #dce6ee!important}
+table tr:first-child th:first-child{border-top-left-radius:15px}table tr:first-child th:last-child{border-top-right-radius:15px}
+tbody tr:last-child td:first-child{border-bottom-left-radius:15px}tbody tr:last-child td:last-child{border-bottom-right-radius:15px}
+tbody tr:last-child td{border-bottom:0!important}
+td,th{padding:11px 14px!important;border-bottom:1px solid #e8eef2!important}
+tbody tr:nth-child(even){background:#f9fbfc}tbody tr:hover{background:#eaf6f7!important}
+.tablebox,.scroll,.tablewrap,.aoi-table-container{border-radius:16px!important;max-width:100%;overflow:auto}
+.metric,.cards>div,.stats>div,.kpis>div{border-radius:14px!important}
+label,button,select,input,.sub,.muted,.small,caption{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif!important}
+html.aoi-night table{background:#192838!important;border-color:#43566b!important;box-shadow:none}
+html.aoi-night tbody tr:nth-child(even){background:#1e3042!important}
+html.aoi-night tbody tr:hover{background:#25465a!important}
+html.aoi-night thead th{background:#2a4054!important;color:#e8f0f5!important}
+@media print{table{box-shadow:none!important;border:1px solid #ccc!important}}
