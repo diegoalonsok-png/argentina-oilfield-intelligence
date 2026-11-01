@@ -17,7 +17,9 @@ class Links(HTMLParser):
         super().__init__();self.links=[];self.ids=set();self.duplicate_ids=set()
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
-        if a.get("id"):\n            if a["id"] in self.ids:self.duplicate_ids.add(a["id"])\n            self.ids.add(a["id"])
+        if a.get("id"):
+            if a["id"] in self.ids:self.duplicate_ids.add(a["id"])
+            self.ids.add(a["id"])
         if tag in ("a","script","link") and (a.get("href") or a.get("src")):
             self.links.append(a.get("href") or a.get("src"))
 files=sorted(ROOT.glob("*.html"))
