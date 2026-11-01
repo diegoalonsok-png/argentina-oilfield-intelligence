@@ -1,0 +1,18 @@
+/* AOI visual refresh — presentación, sin alterar cálculos */
+:root{--aoi-surface:#fff;--aoi-ink:#203449;--aoi-border:#dce5ed;--aoi-accent:#267c8e}
+html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif!important;line-height:1.62;letter-spacing:-.008em}
+h1,h2,h3{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif!important;letter-spacing:-.033em;line-height:1.2;font-weight:700}
+h1{font-size:clamp(1.9rem,3.4vw,2.65rem)}h2{font-size:clamp(1.25rem,2vw,1.65rem)}
+.panel,section.panel,.metric,.card,.stat,.kpi{border-radius:14px!important;border-color:var(--aoi-border)!important;box-shadow:0 5px 22px rgba(20,42,62,.045);min-width:0}
+button,.action{border-radius:9px!important;transition:background-color .15s ease,box-shadow .15s ease}
+button:hover,.action:hover{filter:none!important;box-shadow:0 3px 12px rgba(15,60,90,.1)}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #81bfd8!important;outline-offset:2px}
+input,select,textarea{border-radius:9px!important;max-width:100%;min-width:0;accent-color:var(--aoi-accent)}
+.controls,.filters,.fields,.controls label,.filters label,.fields label{min-width:0}
+.controls input,.controls select,.filters input,.filters select,.fields input,.fields select{width:100%;min-width:0;max-width:100%}
+table{font-variant-numeric:tabular-nums}th{font-weight:650}tbody tr:hover{background:rgba(41,130,150,.055)}
+.note,.notice,.warning{border-radius:0 10px 10px 0}
+@media(max-width:720px){main{max-width:100%;padding-inline:12px}.panel,section.panel{padding:14px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation-duration:.01ms!important}}
+@media print{.panel,section.panel{box-shadow:none!important;border-radius:0!important}}
