@@ -1,0 +1,18 @@
+{
+  "verificado_utc": "2026-11-01T00:48:40+00:00",
+  "estado": "fuente_consultada",
+  "arca": {
+    "url": "https://www.arca.gob.ar/operadoresComercioExterior/informacionAgregada/",
+    "datos_integrados": false,
+    "http": 200,
+    "pagina_sha256": "bc657ae0c322e6bc7addff55b0011e39678db5f0dd131293427b281630d6f867",
+    "archivos_detectados": [],
+    "cantidad_enlaces": 0
+  },
+  "energia": {
+    "url": "https://datos.gob.ar/ar/dataset/energia-produccion-petroleo-gas-por-pozo-capitulo-iv",
+    "datos_integrados": false,
+    "error": "The read operation timed out"
+  },
+  "nota": "Control mensual de fuentes; no implica que el dataset curado se haya actualizado."
+}
