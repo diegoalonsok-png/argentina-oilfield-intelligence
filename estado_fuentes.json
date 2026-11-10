@@ -1,5 +1,5 @@
 {
-  "ultima_comprobacion_utc": "2026-11-09T20:50:14+00:00",
+  "ultima_comprobacion_utc": "2026-11-10T17:56:44+00:00",
   "tipo": "Monitoreo de accesibilidad de fuentes; no descarga ni integra nuevas operaciones",
   "fuentes": {
     "ARCA - Información agregada de comercio exterior": {
@@ -9,8 +9,8 @@
     },
     "Datos abiertos - Ministerio de Economía": {
       "url": "https://datos.gob.ar/",
-      "accesible": false,
-      "error": "TimeoutError"
+      "http_status": 200,
+      "accesible": true
     }
   },
   "nota": "Los 846 registros de los Excel y sus fechas no se modifican. Una respuesta HTTP correcta no significa que ARCA haya publicado datos nuevos."
